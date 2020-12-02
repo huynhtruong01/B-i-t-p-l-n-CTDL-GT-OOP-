@@ -1,0 +1,14 @@
+﻿  PlayerForm.cpp
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(170): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(174): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(178): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(182): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(186): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(190): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(194): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(198): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(202): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\hoang\onedrive\desktop\soundplayer\soundplayer\soundplayer\playerform.h(491): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PlayerForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SoundPlayer.vcxproj -> C:\Users\hoang\OneDrive\Desktop\SoundPlayer\SoundPlayer\Debug\SoundPlayer.exe
